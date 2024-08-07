@@ -6,3 +6,10 @@
 - Continuous deployment which is as you deploy through different environments if all deployments are successfull then it deploys all the way to prod without any manual stop.
 ![image](https://github.com/user-attachments/assets/8d5670f6-28ae-4f6f-b403-ea588891c9bc)
 ![image](https://github.com/user-attachments/assets/d2c50551-eb99-4920-b685-52b0ad28d55d)
+
+### GitHub Actions Glossary
+- Workflow = Everything
+- Triggers = What starts a Workflow
+- Jobs = Series of steps
+- Steps = An individual task
+- Runners = VMs that run jobs
